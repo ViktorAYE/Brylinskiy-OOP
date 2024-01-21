@@ -9,10 +9,7 @@
     ```python
     Viktor start programming at 2024-01-21 20:24:02.649625. Lviv is the best city!
     ```
-- вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
-> якщо графічних файлів багато то краще помістити їх у окрему папку, наприклад у мене це папка `pictures`. Уважно дивіться коли вставляєте URL - файл має бути представленим як `raw`. 
-
-![alt text]( "Результат")
+![alt text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba1_Introducing/Pictures/Screenshot_1.png "Результат")
 
 
 ### Висновок: 
