@@ -3,7 +3,7 @@
 ### Мета роботи: _Навчитись працювати з класами у мові програмування Python
 ---
 ### Виконання роботи
-- Результати виконання завдання *1...N*;
+- Результати виконання завдання;
     1. Розробив власні запити до класу
 
 ```python
@@ -88,7 +88,7 @@ print(f"Загальна кількість користувачів = {MyName.t
 #print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_names}?") - Виводить імена всі, які створили
 ```
 1. Результат виконання завдання:
-   [](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba3_Basic%20OOP/Picture/Screenshot_1.png "1")
+[!alt-text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba3_Basic%20OOP/Picture/Screenshot_1.png "1")
 
 ### Висновок: 
 У даній лабораторній роботі я навчився взаємодії з класами в мові програмування Python та нотатками у файлах з розширенням .ipynb
