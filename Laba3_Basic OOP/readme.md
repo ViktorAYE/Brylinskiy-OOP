@@ -70,7 +70,6 @@ for name in imena:
     print(f"Привіт, {name}!\nТвоя електронна пошта - {imena[name].create_email()}.\nТвій унікальний пароль - {MyName.crpass()}!\n")
 
 print(f"Загальна кількість користувачів = {MyName.total_names}")
-"""Бляха це ж можна було через while зробити. Бож чо я тік зараз допер.............. Нічого, так тоже норм"""
 #print("Let's Start!") - Пише "Let`s start" в консоль
 #names = ("Bohdan", "Marta", None) - Вказуємо Імена, які використовуються в класі
 #all_names = {name: MyName(name) for name in names} - Створює окремий об'єкт для кожного імені
@@ -88,7 +87,7 @@ print(f"Загальна кількість користувачів = {MyName.t
 #print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_names}?") - Виводить імена всі, які створили
 
     1. Результат виконання завдання:
-    
+
 
 ### Висновок: 
 У даній лабораторній роботі я навчився взаємодії з класами в мові програмування Python та нотатками у файлах з розширенням .ipynb
