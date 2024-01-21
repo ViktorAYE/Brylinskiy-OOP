@@ -64,7 +64,7 @@ print(funct("Віктор", "Брилінський"))
 
     1. Результати:
 
-![alt text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba2_Basics%20Python/Pictures/Screenshot_1.png"ІТ Коледж")
+![alt text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba2_Basics%20Python/Pictures/Screenshot_1.png "ІТ Коледж")
 
 ### Висновок: 
 
