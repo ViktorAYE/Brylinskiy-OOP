@@ -14,7 +14,7 @@ for line in response.iter_lines():
     print(line)
 ```
 
-![alt-text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba4_Virtual%20Enviroments/Pictures/Screenshot_1_flask.png "1")
+![alt-text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba4_Virtual%20Enviroments/Pictures/Screenshot_2_project.png "1")
 ```python
 from flask import Flask, render_template
 app = Flask(__name__)
@@ -24,7 +24,7 @@ def home():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
-![alt-text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba4_Virtual%20Enviroments/Pictures/Screenshot_2_project.png "2")
+![alt-text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba4_Virtual%20Enviroments/Pictures/Screenshot_1_flask.png "2")
 
 1. Навчився працювати з віртуальними середовищами:
 ![alt-text](https://github.com/ViktorAYE/Brylinskiy-OOP/blob/main/Laba4_Virtual%20Enviroments/Pictures/Screenshot_3_libs.png "3")
